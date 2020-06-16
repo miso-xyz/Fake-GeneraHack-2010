@@ -1,2 +1,9 @@
-# Fake-GeneraHack-2010
-Fake GeneraHack 2010 Remake
+# Fake GeneraHack 2010 Remake
+
+Tools used (to reverse):
+- Visual Studio 2010
+- Process Hacker
+- Slyther r.0
+
+# .prj Information
+- Built with .NET Framework 4 (Client Profile)
